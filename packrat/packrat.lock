@@ -1,0 +1,18 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.2.4
+RVersion: 3.1.2
+Repos: CRAN=http://cran.rstudio.com
+
+Package: Rcpp
+Source: CRAN
+Version: 0.11.3
+Hash: d9cc0a13885961b2d004cf73b0fb68dd
+
+Package: packrat
+Source: github
+Version: 0.4.2-4
+Hash: d522a07fd108fb269eb892f64a18378bd3abf70a
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: d522a07fd108fb269eb892f64a18378bd3abf70a
